@@ -1,0 +1,1 @@
+# projetoEDA_sazonalidade_temporal_ibovespa
