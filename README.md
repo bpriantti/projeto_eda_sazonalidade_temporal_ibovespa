@@ -64,7 +64,7 @@ Novamente realizou-se o processo de data wralling e obteve-se a tabela abaixo:
 
 ![alt text](https://github.com/bpriantti/projetoEDA_sazonalidade_temporal_ibovespa/blob/main/images/table.PNG?raw=true)
 
-# Resultados Obtidos:
+## Resultados Obtidos:
 ___
 &nbsp;  
 tornou-se possível concluir com a análise exploratória dos dados ao final do estudo que:
