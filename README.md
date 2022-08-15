@@ -29,16 +29,11 @@ __Encontre-me:__
 
 __Frameworks Utilizados:__
 
-Numpy:
-https://numpy.org/doc/
-Pandas:
-https://pandas.pydata.org/
-Matplotlib:
-https://matplotlib.org/
-Seaborn:
-https://seaborn.pydata.org/
-Plotly:
-https://plotly.com/
+- Numpy: https://numpy.org/doc/  
+- Pandas: https://pandas.pydata.org/
+- Matplotlib: https://matplotlib.org/ 
+- Seaborn: https://seaborn.pydata.org/  
+- Plotly: https://plotly.com/  
 
 ___
 
